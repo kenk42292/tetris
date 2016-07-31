@@ -1,0 +1,432 @@
+strat: 1
+
+
+strat: 1
+
+
+strat: 1
+
+
+FAILURE
+strat: 1
+
+
+strat: 1
+
+
+strat: 1
+
+
+strat: 1
+
+
+strat: 1
+
+
+strat: 1
+
+
+strat: 1
+
+
+strat: 1
+
+
+strat: 1
+
+
+strat: 1
+
+
+strat: 1
+
+
+strat: 1
+
+
+strat: 1
+
+
+strat: 2
+
+
+strat: 2
+
+
+strat: 2
+
+
+strat: 2
+
+
+strat: 2
+
+
+strat: 2
+
+
+strat: 2
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+FAILURE
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+FAILURE
+strat: 0
+
+
+FAILURE
+strat: 1
+
+
+FAILURE
+strat: 1
+
+
+strat: 2
+
+
+FAILURE
+strat: 2
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+FAILURE
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+FAILURE
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 1
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 1
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 1
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+FAILURE
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+FAILURE
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+FAILURE
+strat: 1
+
+
+FAILURE
+strat: 1
+
+
+FAILURE
+strat: 0
+
+
+FAILURE
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 1
+
+
+FAILURE
+strat: 0
+
+
+FAILURE
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+strat: 0
+
+
+FAILURE
+strat: 0
+
+
+FAILURE

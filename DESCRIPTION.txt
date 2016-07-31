@@ -1,0 +1,15 @@
+DESCRIPTION tetrisV8:
+
+Tetris Battle Level: ~95
+
+Separate threads for hand and main: hand and Brain parallel
+Brain's task separated 4 times into 'SubBrain' threads
+Full simulation of dropped pieces, including deletion of row
+    --> resulting in simpler evaluation function
+Complete piece-move association, all usable pieces grouped as array in enum
+    --> no need to generate moves
+Can predict future moves: However, due to no threading between brain and hand
+    yet, it seems only looking 0 or 1 steps ahead is optimal
+Two separate hands - one with max speed, other with less speed, but ability to move,
+    then rotate
+Strategy implemented
